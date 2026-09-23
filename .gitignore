@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.db
+*.log
+dist/
+build/
+*.zip
+.venv/
+node_modules/
+database/backups/
+.pytest_cache/

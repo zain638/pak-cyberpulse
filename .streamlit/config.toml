@@ -1,0 +1,15 @@
+# Pak-CyberPulse — Streamlit theme (black / red / green SOC theme).
+# The app's CSS is designed for a black background; without this file Streamlit
+# falls back to the light base theme and native widgets (tab labels, inputs)
+# render with dark text on the forced dark background -> invisible options.
+[theme]
+base = "dark"
+primaryColor = "#00e676"
+backgroundColor = "#000000"
+secondaryBackgroundColor = "#0a0a0a"
+textColor = "#f2f5f2"
+font = "sans serif"
+
+[server]
+headless = true
+fileWatcherType = "none"

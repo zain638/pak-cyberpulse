@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Pak-CyberPulse
+Comment=Pak-CyberPulse SIEM / SOAR / GRC desktop app
+Exec=Pak-CyberPulse
+Icon=applications-system
+Terminal=false
+Categories=Utility;Security;
+StartupNotify=false
